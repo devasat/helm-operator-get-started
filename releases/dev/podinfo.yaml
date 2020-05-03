@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: sdevarapalli/podinfo
-      tag: dev-ipgzr4i6
+      tag: dev-mfqnzxvy
     replicaCount: 2
     hpa:
       enabled: false
